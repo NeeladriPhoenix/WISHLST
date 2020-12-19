@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="git" type="id" />
+    <item name="ad" type="id" />
+    <item name="gi" type="id" />
+    <item name="sh" type="id" />
+    <item name="p" type="id" />
+    <item name="dlt" type="id" />
+    <item name="qt" type="id" />
+    <item name="sal" type="id" />
+    <item name="lv" type="id" />
+</resources>
